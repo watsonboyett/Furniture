@@ -1,0 +1,9 @@
+qty, mfg part#, desc, price/unit, subtotal
+6?, 1515-S, "15 series T-slotted, smooth surface", $0.53/in ($51.41/97"), $309
+12?, 2030, "1515/1515-Lite End Cap Black with Push-ins", $1.35, $16
+40?, 40-4302, "2 Hole Inside Corner Bracket", $2.95, $118
+40?, ???, "(What kind?) T-nuts (What thread?)", $0.80, $36
+40?, ???, "Button head socket cap screw (what thread?), $0.20, $8
+7, ???, "Adjustable levelling feet", $2?, $14?
+
+total: $500
