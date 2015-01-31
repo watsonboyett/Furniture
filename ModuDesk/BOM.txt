@@ -1,9 +1,10 @@
-qty, mfg part#, desc, price/unit, subtotal
-6?, 1515-S, "15 series T-slotted, smooth surface", $0.53/in ($51.41/97"), $309
-12?, 2030, "1515/1515-Lite End Cap Black with Push-ins", $1.35, $16
-40?, 40-4302, "2 Hole Inside Corner Bracket", $2.95, $118
-40?, ???, "(What kind?) T-nuts (What thread?)", $0.80, $36
-40?, ???, "Button head socket cap screw (what thread?), $0.20, $8
-7, ???, "Adjustable levelling feet", $2?, $14?
+Qty, Mfg Part#, Desc, Price/Unit, Sub-Total
+5, 1515-S, "15 series T-slotted, smooth surface", 80" @ $0.53/in, $212
+4, 1515-S, "15 series T-slotted, smooth surface", 16.5" @ $0.53/in, $35
+2, 1515-S, "15 series T-slotted, smooth surface", 29" @ $0.53/in, $31
+2, 1515-S, "15 series T-slotted, smooth surface", 50" @ $0.53/in, $53
+12, 2030, "1515/1515-Lite End Cap Black with Push-ins", $1.35, $16
+52, 4302, "2 Hole Inside Corner Bracket", $2.95, $153
+64, 3320, "5/16-18 x .687 FBHSCS & Economy T-Nut (Black Zinc)", $0.60, $39
 
-total: $500
+total: $539
